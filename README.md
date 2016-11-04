@@ -21,6 +21,7 @@ comming soon
 
 ## CONTRIBUTORS 
 At the moment
--[ Robert Adero](https://github.com/RobertAdero)
--[James Oguya](https://github.com/oguya)
--[Odhiambo Dormnic](https://github.com/ayimdomnic)
+
+- [ Robert Adero](https://github.com/RobertAdero)
+- [James Oguya](https://github.com/oguya)
+- [Odhiambo Dormnic](https://github.com/ayimdomnic)
