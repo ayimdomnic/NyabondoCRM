@@ -23,7 +23,7 @@ class Teacher extends Model
      * Some Validation rules for this model's new instance.
      */
 
-    public static $validationRules = array(
+    public static $validationRules = [
         'name' => 'required|string',
         'gender' => 'required',
         'class_id' => 'required|integer',
@@ -31,17 +31,17 @@ class Teacher extends Model
         'address' => 'required|string',
         'phone' => 'required|digits_between:6,20',
         'profile_pix' => 'image',
-    );
+    ];
 
     /*
      * Some Validation rules for this model's new instance.
      */
 
-    public static $updateRules = array(
+    public static $updateRules = [
         'address' => 'string',
         'phone' => 'digits_between:6,20',
         'profile_pix' => 'image',
-    );
+    ];
 
     public function user()
     {
