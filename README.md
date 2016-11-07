@@ -6,7 +6,7 @@ This is a web application for St Josephs Nyabondo High School. A few of Us who m
 Ensure You have composer installed go to [composer's official website](http://getcomposer.org), and install it globally to your Machine.
 
 - run this command on your git bash `git clone git@github.com:ayimdomnic/NyabondoCRM.git MyRepo`
-- `cd` into `MyRepo`  then run `composer install`
+- `cd` into `MyRepo\Api`  then run `composer install`
 - now  run `cp .env.example .env` then `php artisan key:generate`
 - create a new database and feed the database credentials on `MyRepo\.env`
 - run `php artisan migrate` then `php artisan serve` to watch the app n `localhost:8000`
