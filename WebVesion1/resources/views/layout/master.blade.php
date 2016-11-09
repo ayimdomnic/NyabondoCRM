@@ -7,7 +7,7 @@
     <meta name="apple-mobile-web-app-capable" content="yes" />
     <meta name="description" content="">
     <meta name="keywords" content="smis,School Information, Systems,Shule Tanzania,best school system,">
-    <meta name="author" content="Innocent Christopher Kilogha">
+    <meta name="author" content="Odhiambo Dormnic, James Oguya, Robert Adero">
 
     <!-- Base Css Files -->
    {!!HTML::style("assets/libs/jqueryui/ui-lightness/jquery-ui-1.10.4.custom.min.css" )!!}
@@ -473,7 +473,7 @@
              @yield('contents')
             <!-- Footer Start -->
             <footer>
-                Bizplus Schools Solution &copy; {{date('Y')}}
+                The Nyabondo Aluminus &copy; {{date('Y')}}
                 <div class="footer-links pull-right">
                     <a href="#">About</a><a href="#">Support</a><a href="#">Terms of Service</a><a href="#">Legal</a><a href="#">Help</a><a href="#">Contact Us</a>
                 </div>

@@ -68,7 +68,7 @@
 <!-- Begin page -->
 <div class="container">
     <div class="full-content-center">
-        <p class="text-center"><a href="#"> {!! HTML::image("assets/img/logo.png")!!}</a></p>
+        <p class="text-center"><strong>Nyabondo High School CRM</strong></p>
         <div class="login-wrap animated flipInX">
             <div class="login-block">
 
