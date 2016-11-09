@@ -1,4 +1,4 @@
-vendor/
+./api/vendor/
 node_modules/
 
 # Laravel 4 specific
